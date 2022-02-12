@@ -23,7 +23,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Horiseon](/Users/abeshaw/Code-refactor-challenge/Develop/assets/images/screenshot horiseon.png)
+!](/Users/abeshaw/Code-refactor-challenge/Develop/assets/images/screenshot horiseon.png)
 
 https://abeshaw97.github.io/Code-refactor-challenge/
 
