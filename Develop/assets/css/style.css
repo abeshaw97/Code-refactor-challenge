@@ -7,15 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*  */
-header nav{
-    float: right;
-    margin: px 0;
-}
 
-header nav ul{
-    display: inline;
-}
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,11 +20,12 @@ header nav ul{
     font-size: 48px;
 }
 
+/* remove div and added nav element to match html file */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,11 +33,11 @@ header nav ul{
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
